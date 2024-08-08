@@ -1,6 +1,6 @@
-# 文件目录模板
+# 项目目录模板
 
-#### 这是一个原生TS项目的文件目录模板，用于快速创建项目目录
+#### 这是一个原生TS项目的项目目录模板，用于快速创建项目目录
 
 <br/>
 
@@ -9,7 +9,7 @@
 ### 1、下载模板到本地
 
 ```bash
-git clone https://github.com/ydmingg/project-catalog.git
+git clone https://github.com/ydmingg/project-ts.git
 
 ```
 
