@@ -1,0 +1,15 @@
+{
+  "name": "project-catalog",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "rimraf": "^5.0.0",
+    "typescript": "^5.0.4",
+    "vite": "^5.2.6"
+  }
+}
