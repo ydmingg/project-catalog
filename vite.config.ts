@@ -20,8 +20,9 @@ export default defineConfig({
         }
     },
     server: {
-        port: 8071, // 设置开发服务器端口
-        host: "192.168.5.235", // 主机IP地址
+        host: "0.0.0.0",
+		port: 8083,
+        
     },
     resolve: {
         alias: {
